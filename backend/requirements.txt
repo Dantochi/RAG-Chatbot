@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+langchain-anthropic
+langchain-huggingface
+langchain-chroma
+langchain-unstructured
+unstructured[pdf,docx,xlsx]
+sentence-transformers
